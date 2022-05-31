@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Hola a todo el mundo!
+title: For me, for you, for them, for all of us
 date: 2022-05-31T13:15:19.483Z
 description: First blog post of this lazy guy. Just 20 years late, but better
   late than never.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/chick.jpg
 tags:
   - Personal

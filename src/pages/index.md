@@ -5,14 +5,10 @@ image: /img/bamboo.jpg
 heading: Busyxin
 subheading: Derailing train of thought of a self-labelled humanist
 mainpitch:
-  title: Who's the heck is Xin.
-  description: >
-    A mid-30s sino-hispanic technologist. He likes to live life in weird ways.
-    This guy only feels home when he is in a balance of discomfort and comfort.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Who the hell is Xin?
+  description: A mid 30s Sino-spaniard technologist. He lives life in weird ways.
+description: Xin is a a creative technologist who is allergic to comfort and is
+  constantly pushing to grow.
 intro:
   blurbs:
     - image: /img/coffee.png
