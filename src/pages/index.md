@@ -3,7 +3,7 @@ templateKey: index-page
 title: Busyxin
 image: /img/bamboo.jpg
 heading: Busyxin
-subheading: Derailing train of thought of a self-labelled humanist
+subheading: Derailing train of thought from a self-defined humanist
 mainpitch:
   title: Who the hell is Xin?
   description: A mid 30s Sino-spaniard technologist. He lives life in weird ways.
