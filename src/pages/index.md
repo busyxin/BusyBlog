@@ -1,14 +1,13 @@
 ---
 templateKey: index-page
 title: Busyxin
-image: /img/bamboo.jpg
+image: /img/milky.jpg
 heading: Busyxin
-subheading: Derailing train of thought from a self-defined humanist
+subheading: Yet another blog about an invidividual rambling
 mainpitch:
-  title: Who the hell is Xin?
-  description: A mid 30s Sino-spaniard technologist. He lives life in weird ways.
-description: Xin is a a creative technologist who is allergic to comfort and is
-  constantly pushing to grow.
+  title: Who am I?
+  description: A mid 30s Sino-spaniard technologist.
+description: Xin tries to be a creative technologist, he feels the need to grow.
 intro:
   blurbs:
     - image: /img/coffee.png
